@@ -39,7 +39,7 @@ gsap.from("#im3",{
     scroller:"body",
     start:"top 0%",
     end:"top 50%",
-    scrub:2
+    scrub:5
 }
 })
 gsap.from("#box",{
@@ -52,7 +52,7 @@ gsap.from("#box",{
     scroller:"body",
     start:"top 0%",
     end:"top 100%",
-    scrub:2
+    scrub:5
 }
 })
 
