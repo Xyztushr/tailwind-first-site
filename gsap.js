@@ -62,7 +62,7 @@ gsap.from("#box",{
 })
 gsap.from("#pg3",{
   opacity:0,
-x:100,
+   x:100,
   duration:3,
   scrollTrigger:{
     trigger:" #pg3",
