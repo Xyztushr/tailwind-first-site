@@ -67,7 +67,6 @@ x:100,
   scrollTrigger:{
     trigger:" #pg3",
     scroller:"body",
-    markers:true,
     start:"top 60%",
     end:"top 100%",
     scrub:5
